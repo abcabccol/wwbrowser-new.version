@@ -1,0 +1,6 @@
+{
+  "name": "WW AI Browser",
+  "description": "A sophisticated AI-powered browsing environment that synthesizes web content into actionable intelligence.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
